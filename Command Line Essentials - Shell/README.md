@@ -1,7 +1,6 @@
 # Shell Workshop
 
 ## Learning Objectives
-By the end of this lesson, you will be able to:
 
 - Recognize the importance of the Shell terminal for a Web Developer.
 - Operate with a Shell terminal using multiple commands.
